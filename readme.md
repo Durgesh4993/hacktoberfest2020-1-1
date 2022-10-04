@@ -1,5 +1,5 @@
-# Hacktober Fest
-![Hacktoberfest 2020](hacktoberfest2020.png)
+# Hacktober Fest 2022
+
 
 <p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/namishkhanna/hacktoberfest2020"></a>
